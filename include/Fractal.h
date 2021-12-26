@@ -1,8 +1,10 @@
 #ifndef FRACTAL_H
 #define FRACTAL_H
 #include <iostream>
+#include <complex>
 
 
+// should be refactored to use the advantages of OOP
 class Fractal
 {
     public:
